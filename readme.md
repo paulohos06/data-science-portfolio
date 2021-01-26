@@ -12,4 +12,5 @@ I’m constantly looking for new challenges to improve as a professional and alw
 * [Twitter](https://www.twitter.com/paulohos06)
 
 **Background in:** Python and Machine Learning.
+
 ---
