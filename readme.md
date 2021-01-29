@@ -13,4 +13,8 @@ I’m constantly looking for new challenges to improve as a professional and alw
 
 **Background in:** Python and Machine Learning.
 
+## Projects:
+
+* **Airbnb Rio de Janeiro Data Analysis:** https://bit.ly/3iUKvYa
+
 ---
