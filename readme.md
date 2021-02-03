@@ -15,6 +15,6 @@ I’m constantly looking for new challenges to improve as a professional and alw
 
 ## Projects:
 
-* **Airbnb Rio de Janeiro (Brazil) Data Analysis:** https://bit.ly/3t9jg0H
+* **Airbnb Rio de Janeiro Data Analysis:** https://bit.ly/3t9jg0H
 
 ---
