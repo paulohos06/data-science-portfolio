@@ -13,8 +13,13 @@ I’m constantly looking for new challenges to improve as a professional and alw
 
 **Background in:** Python and Machine Learning.
 
+## Articles:
+
+* **Understanding Matplotlib:** https://bit.ly/3wLUMww
+
 ## Projects:
 
 * **Airbnb Rio de Janeiro Data Analysis:** https://bit.ly/3t9jg0H
+* **Rio de Janeiro Urban Violence Analysis:** https://bit.ly/2Q7vqZ3
 
 ---
